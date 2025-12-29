@@ -1,6 +1,7 @@
 # C# & Gemini AI Chatbot 🤖
 
 Bu proje, Google'ın **Gemini 1.5 Flash** modelini kullanan, Windows Forms tabanlı modern bir masaüstü chatbot uygulamasıdır. Kullanıcılara düşük gecikme süreli ve akıllı bir sohbet deneyimi sunar.
+### Çalıştırılabilir zip dosyası linki: https://github.com/MeralYavuzturk/LLM/releases/tag/v.1.0.0
 
 ## 🚀 Kurulum Rehberi
 
